@@ -37,19 +37,49 @@ Diff = A ⊕ B ⊕ Bin
 Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
+### Full Adder:
+![Screenshot 2024-03-23 233917](https://github.com/Aadithya2201/FULL_ADDER_SUBTRACTOR/assets/145917810/68b6f7f5-1d76-46ec-a7ee-259a45cad994)
+
+### Full Subtractor:
+![Screenshot 2024-03-23 233945](https://github.com/Aadithya2201/FULL_ADDER_SUBTRACTOR/assets/145917810/5a3e012b-20ca-4b24-85b6-e29a45bcee6a)
 
 **Procedure**
-
-Write the detailed procedure here
+  STEP 1: Use module project name(input,output) to start the Verilog programmming.
+  STEP 2: Assign inputs and outputs using the word input and output respectively. 
+  STEP 3: Use defined keywords like wire,assign and required logic gates to represent the boolean expression. 
+  STEP 4: Use each output to represnt onre for differnce and the other for borrow. STEP 5: End the verilog program using keyword endmodule.
 
 **Program:**
-
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
+```
+/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
+Developed by:Rehan jeyan
+RegisterNumber:212223040167
 */
+```
+### Full Adder:
+![image](https://github.com/RehanJeyan/FULL_ADDER_SUBTRACTOR/assets/165877134/c2adaa2c-8402-40bb-80c9-7e0c5f783b33)
+
+
+### Full Subtractor:
+![image](https://github.com/RehanJeyan/FULL_ADDER_SUBTRACTOR/assets/165877134/109d8fba-a7b2-4369-b749-f5bbf5fc4f66)
 
 **RTL Schematic**
+### Full Adder:
+![image](https://github.com/RehanJeyan/FULL_ADDER_SUBTRACTOR/assets/165877134/f503201c-40fc-42e3-b970-4ea0ee372e95)
+
+
+### Full Subtractor:
+![image](https://github.com/RehanJeyan/FULL_ADDER_SUBTRACTOR/assets/165877134/ac96933b-f7fe-4b95-a9cd-c11741739451)
+
 
 **Output Timing Waveform**
+### Full Adder:
+![image](https://github.com/RehanJeyan/FULL_ADDER_SUBTRACTOR/assets/165877134/4a4d0013-642f-480c-ac0a-3e764455c868)
+
+
+### Full Subtractor:
+![image](https://github.com/RehanJeyan/FULL_ADDER_SUBTRACTOR/assets/165877134/43c3079e-1109-493b-a418-9f5014f3802c)
+
 
 **Result:**
 
